@@ -1,0 +1,9 @@
+*.suo
+*.user
+*.exe
+*.dll
+*.obj
+*.testsettings
+
+bin/
+obj/
