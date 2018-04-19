@@ -8,8 +8,8 @@
     <ProjectGuid>{C449106A-83B8-4314-B6CF-2A9D92CBE7D1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SimuKit.ML.ARM</RootNamespace>
-    <AssemblyName>SimuKit.ML.ARM</AssemblyName>
+    <RootNamespace>ARM</RootNamespace>
+    <AssemblyName>arm</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
