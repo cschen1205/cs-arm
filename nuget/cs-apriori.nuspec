@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cs-arm-apriori</id>
+    <version>1.0.1</version>
+    <authors>cschen1205</authors>
+    <owners>cschen1205</owners>
+    <licenseUrl>https://github.com/cschen1205/cs-arm/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cschen1205/cs-arm</projectUrl>
+    <iconUrl>https://rawgit.com/cschen1205/cs-arm/master/icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Apriori Association Rule Mining</description>
+    <releaseNotes>Apriori Association Rule Mining in .NET 4.6.1</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>ARM, Apriori, Association-Rule-Mining, c-sharp</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
