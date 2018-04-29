@@ -8,7 +8,11 @@ Apriori algorithm is a frequent pattern mining algorithm that finds frequent pat
 
 # Install
 
+Run the following nuget command:
 
+```
+Install-Package cs-arm-apriori
+```
 
 # Usage
 
